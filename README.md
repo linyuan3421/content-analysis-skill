@@ -189,11 +189,6 @@ content-platform-analyzer/
 
 *正在使用？欢迎 PR 添加你的案例！*
 
-### 📊 效果展示
-
-*生成的分析报告示例*
-
-*(添加截图：assets/screenshot-report.png)*
 
 ---
 
@@ -201,11 +196,9 @@ content-platform-analyzer/
 
 **Aren**
 
-*Make your content creation more data-driven*
-
 WeChat Official Account: 反时钟效率笔记
 
-**让思考慢下来，让效率快起来**
+> **让思考慢下来，让效率快起来**
 
 ![WeChat QR Code](assets/qr-code.png)
 
@@ -231,6 +224,3 @@ Special thanks to the open-source community for inspiration and tools.
   <b>如果这个项目对你有帮助，请给个 ⭐️ 支持！</b>
 </p>
 
----
-
-**Topics**: content-analysis, xiaohongshu, wechat, social-media-analytics, sentiment-analysis, trend-analysis, viral-content, data-visualization, ai-agent, mcp, pandas, nlp, text-mining, analytics, 公众号, 小红书, 内容创作, weixin, wechat-official-account

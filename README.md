@@ -18,7 +18,7 @@
 
 ```bash
 # 使用 npx 直接安装
-npx skills add https://github.com/yourusername/content-analysis-skill
+npx skills add https://github.com/YOUR_USERNAME/content-analysis-skill
 ```
 
 ### 2. 准备数据

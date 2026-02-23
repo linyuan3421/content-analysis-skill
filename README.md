@@ -18,7 +18,7 @@
 
 ```bash
 # 使用 npx 直接安装
-npx skills add https://github.com/YOUR_USERNAME/content-analysis-skill
+npx skills add https://github.com/linyuan3421/content-analysis-skill
 ```
 
 ### 2. 准备数据
@@ -75,11 +75,13 @@ content-platform-analyzer/
 └── LICENSE               # MIT
 ```
 
-## 作者
+## 作者•Aren
 
 **让你的内容创作更有数据支撑**
 
-微信公众号：**让思考慢下来，让效率快起来**
+微信公众号：反时钟效率笔记
+
+**让思考慢下来，让效率快起来**
 
 ![公众号二维码](assets/qr-code.png)
 
